@@ -9,7 +9,7 @@ import time
 
 tokenid = 0
 
-with open('2000-2499.csv', 'r') as csv_file:
+with open('data.csv', 'r') as csv_file:
 
     csv_reader = csv.reader(csv_file)
 
